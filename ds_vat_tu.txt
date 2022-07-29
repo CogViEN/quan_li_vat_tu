@@ -1,0 +1,4 @@
+VT001,Tu Lanh,Cai,200
+VT002,Ti Vi,Cai,500
+VT003,Dau An,Chai,1000
+VT004,Gao,Kg,100.5
